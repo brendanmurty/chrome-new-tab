@@ -1,0 +1,19 @@
+{
+  "name": "Custom New Tab for Chrome",
+  "version": "1.0.0",
+  "description": "Chrome extension, replacement of the home page",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brendanmurty/chrome-new-tab.git"
+  },
+  "keywords": [
+    "chrome",
+    "extension",
+    "home"
+  ],
+  "author": "Brendan Murty",
+  "bugs": {
+    "url": "https://github.com/brendanmurty/chrome-new-tab"
+  },
+  "homepage": "https://github.com/brendanmurty/chrome-new-tab#readme"
+}

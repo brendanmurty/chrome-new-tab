@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #2a2a2a;
+  color: #ffffff;
+}
+
+#sites {
+  list-style: none outside none;
+  width: 80%;
+  max-width: 500px;
+  margin: 150px auto;
+}
+
+#sites li {
+  float: left;
+  margin: 0 25px 25px 0;
+  padding: 0;
+}
+
+#sites a {
+  width: 98px;
+  line-height: 98px;
+  font-size: 30px;
+  display: block;
+  text-align: center;
+  text-decoration: none;
+  background-color: #333333;
+  color: #ffffff;
+  border: 1px solid #444444;
+}

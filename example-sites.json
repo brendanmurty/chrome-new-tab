@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Google",
+    "short_title": "G",
+    "url": "https://google.com",
+    "colour_background": "#2a3c9e",
+    "colour_foreground": "#ffffff"
+  },
+  {
+    "title": "SchnitMyDadSays",
+    "short_title": "S",
+    "url": "http://schnitmydadsays.com",
+    "colour_background": "#f13937",
+    "colour_foreground": "#ffffff"
+  }
+]

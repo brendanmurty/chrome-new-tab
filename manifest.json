@@ -1,0 +1,20 @@
+{
+  "name": "Custom New Tab for Chrome",
+  "description": "Customised New Tab page which allows for custom web site tiles.",
+  "short_name": "Custom New Tab",
+  "version": "1.0.0",
+  "author": "Brendan Murty",
+  "homepage_url": "https://github.com/brendanmurty/chrome-new-tab",
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  },
+  "permissions": [
+    "topSites",
+    "storage",
+    "http://json-schema.org/example/card.json"
+  ],
+  "manifest_version": 2,
+  "web_accessible_resources": [
+    "index.html"
+  ]
+}

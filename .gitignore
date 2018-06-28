@@ -1,0 +1,8 @@
+node_modules
+vendor/
+tmp/
+*.DS_Store
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+Desktop.ini
