@@ -10,7 +10,7 @@ xhr.onload = function() {
         var site = json[i],
             list_item = document.createElement('li'),
             list_item_link = document.createElement('a'),
-            list_item_content = site.short_title;
+            list_item_content = site.short_title || site.title;
 
         list_item_link.title = site.title;
         list_item_link.href = site.url;
