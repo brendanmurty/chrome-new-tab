@@ -19,8 +19,9 @@ body {
 }
 
 #sites a {
-  width: 98px;
-  line-height: 98px;
+  width: 90px;
+  line-height: 90px;
+  padding: 4px;
   font-size: 30px;
   display: block;
   text-align: center;
