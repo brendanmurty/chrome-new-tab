@@ -1,4 +1,4 @@
-var sites_json_file = 'http://json-schema.org/example/card.json';
+var sites_json_file = 'https://raw.githubusercontent.com/brendanmurty/chrome-new-tab/master/example-sites.json';
 
 var xhr = new XMLHttpRequest();
 
