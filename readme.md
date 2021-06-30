@@ -10,6 +10,7 @@ Loads website tiles stored in a public online JSON file so that settings can syn
 
 1. Fork this repository
 2. Edit `sites.json` and add your own sites
-3. Commit your changes
-4. Push the changes back up to your remote fork repository
-5. Load the local repository folder as an Unpacked Extension in Chrome by visiting `chrome://extensions`
+3. Update the `sites.json` URLs in the files here to use your forked repository instead
+4. Commit your changes
+5. Push the changes back up to your remote forked repository
+6. Load the local repository folder as an Unpacked Extension in Chrome by visiting `chrome://extensions`
