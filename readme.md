@@ -4,7 +4,7 @@ A simple extension for Chrome to replace the New Tab page.
 
 Loads website tiles stored in a public online JSON file so that settings can sync between machines.
 
-[![Screenshot](https://raw.githubusercontent.com/brendanmurty/chrome-new-tab/master/screenshot.png)](screenshot.png)
+![Screenshot](screenshot.png)
 
 ### Setup
 
