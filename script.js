@@ -1,4 +1,4 @@
-var sites_json_file = 'https://raw.githubusercontent.com/brendanmurty/chrome-new-tab/master/example-sites.json';
+var sites_json_file = 'https://raw.githubusercontent.com/brendanmurty/chrome-new-tab/master/sites.json';
 
 var xhr = new XMLHttpRequest();
 
